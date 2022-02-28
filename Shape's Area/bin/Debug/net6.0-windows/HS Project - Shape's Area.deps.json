@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HS Project - Shape's Area/1.0.0": {
+        "runtime": {
+          "HS Project - Shape's Area.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HS Project - Shape's Area/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
