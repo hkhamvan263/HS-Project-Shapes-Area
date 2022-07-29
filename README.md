@@ -1,6 +1,6 @@
 # High-School-Project-Shape-Area
 
-I recreated a project I did during my sophomore year of high school with more added code.  
+I recreated a project I did during my sophomore year of high school with code that I did not add to my project.  
 
 This repository is a work in progress.  
 
