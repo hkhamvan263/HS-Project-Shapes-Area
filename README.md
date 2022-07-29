@@ -1,4 +1,4 @@
-# High-School-Project-Shape-Area
+# High School Project: Shape's Area
 
 I recreated a project I did during my sophomore year of high school, in Computer Programming I Honors, with code that I did not add to my project.  
 
