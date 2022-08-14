@@ -1,0 +1,24 @@
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.vbproj.AssemblyReference.cache
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.Form1.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.vbproj.GenerateResource.cache
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.AssemblyInfoInputs.cache
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.AssemblyInfo.vb
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.vbproj.CoreCompileInputs.cache
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\bin\Debug\net6.0-windows\HS Project - Shape's Area.exe
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\bin\Debug\net6.0-windows\HS Project - Shape's Area.deps.json
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\bin\Debug\net6.0-windows\HS Project - Shape's Area.runtimeconfig.json
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\bin\Debug\net6.0-windows\HS Project - Shape's Area.dll
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\bin\Debug\net6.0-windows\HS Project - Shape's Area.pdb
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.dll
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\ref\HS Project - Shape's Area.dll
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.pdb
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS Project - Shape's Area.genruntimeconfig.cache
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.Form2.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.Cube.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\refint\HS Project - Shape's Area.dll
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.SurfaceArea.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.Square.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.Cone.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.OtherShapes.resources
+C:\Users\Hannah Khamvanthong\source\repos\HS Project - Shape's Area\HS Project - Shape's Area\obj\Debug\net6.0-windows\HS_Project___Shape_s_Area.Pyramid.resources
