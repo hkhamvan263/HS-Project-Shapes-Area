@@ -35,6 +35,15 @@
         strTitle = "Area Formulas"
         MessageBox.Show("Rectangle: " & AreaRect & vbCrLf & "Triangle: " & AreaTriangle & vbCrLf & "Circle: " & AreaCirc, strTitle)
     End Sub
+
+    Private Sub CubeToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CubeToolStripMenuItem.Click
+        Cube.Show()
+    End Sub
+
+    Private Sub SurfaceAreaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SurfaceAreaToolStripMenuItem.Click
+        SurfaceArea.Show()
+    End Sub
+
     Private Sub btnothershapes_Click(sender As Object, e As EventArgs) Handles btnothershapes.Click
         OtherShapes.Show()
     End Sub

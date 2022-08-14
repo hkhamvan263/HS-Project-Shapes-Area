@@ -26,6 +26,7 @@ Partial Class OtherShapes
         Me.btnsquare = New System.Windows.Forms.Button()
         Me.lbltitle = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.btnsemicircle = New System.Windows.Forms.Button()
         Me.btnparallelogram = New System.Windows.Forms.Button()
         Me.btnellipse = New System.Windows.Forms.Button()
         Me.btndodecagon = New System.Windows.Forms.Button()
@@ -37,7 +38,6 @@ Partial Class OtherShapes
         Me.btndecagon = New System.Windows.Forms.Button()
         Me.btnoct = New System.Windows.Forms.Button()
         Me.btnhex = New System.Windows.Forms.Button()
-        Me.btnsemicircle = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -91,6 +91,15 @@ Partial Class OtherShapes
         Me.GroupBox1.TabIndex = 25
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Other Shapes"
+        '
+        'btnsemicircle
+        '
+        Me.btnsemicircle.Location = New System.Drawing.Point(435, 386)
+        Me.btnsemicircle.Name = "btnsemicircle"
+        Me.btnsemicircle.Size = New System.Drawing.Size(222, 58)
+        Me.btnsemicircle.TabIndex = 36
+        Me.btnsemicircle.Text = "Semicircle"
+        Me.btnsemicircle.UseVisualStyleBackColor = True
         '
         'btnparallelogram
         '
@@ -190,15 +199,6 @@ Partial Class OtherShapes
         Me.btnhex.TabIndex = 24
         Me.btnhex.Text = "Hexagon"
         Me.btnhex.UseVisualStyleBackColor = True
-        '
-        'btnsemicircle
-        '
-        Me.btnsemicircle.Location = New System.Drawing.Point(435, 386)
-        Me.btnsemicircle.Name = "btnsemicircle"
-        Me.btnsemicircle.Size = New System.Drawing.Size(222, 58)
-        Me.btnsemicircle.TabIndex = 36
-        Me.btnsemicircle.Text = "Semicircle"
-        Me.btnsemicircle.UseVisualStyleBackColor = True
         '
         'OtherShapes
         '

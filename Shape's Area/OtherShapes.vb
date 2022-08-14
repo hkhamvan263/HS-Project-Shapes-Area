@@ -25,4 +25,12 @@
     Private Sub btndodecagon_Click(sender As Object, e As EventArgs) Handles btndodecagon.Click
 
     End Sub
+
+    Private Sub btnsemicircle_Click(sender As Object, e As EventArgs) Handles btnsemicircle.Click
+
+    End Sub
+
+    Private Sub btnparallelogram_Click(sender As Object, e As EventArgs) Handles btnparallelogram.Click
+
+    End Sub
 End Class
